@@ -1,8 +1,8 @@
 # Demo instance and test data
 
-Navigate to: https://demo-patients-frontend.herokuapp.com
-Login test data: 
-Username: test 
+Navigate to: https://demo-patients-frontend.herokuapp.com <br>
+Login test data: <br>
+Username: test <br>
 Password: test
 
 # Project description and use case.
